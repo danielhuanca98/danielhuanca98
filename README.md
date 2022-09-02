@@ -1,6 +1,6 @@
 <div align="center">
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)	![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+[![LinkedIn][linkedinBadge]][linkedin]	[![Behance][behanceBadge]][behance]
 
 </div>
 
@@ -20,17 +20,8 @@ I'm a front-end developer living in Brazil. I'm studying Software Engineering at
 ### :telephone_receiver: Contact
 * :iphone: +55 19 99748 0716
 * :e-mail: huancadev@gmail.com
-<!--
-**danielhuanca98/danielhuanca98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedinBadge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
+[behanceBadge]: https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white
+[behance]: https://www.behance.net/danielhuanca98
+[linkedin]: https://www.linkedin.com/in/daniel-huanca/
