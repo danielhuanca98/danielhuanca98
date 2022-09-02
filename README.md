@@ -1,4 +1,8 @@
+<div align="center">
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)	![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+
+</div>
 
 ### :pouting_man: Hello! I'm Daniel Huanca.
 
